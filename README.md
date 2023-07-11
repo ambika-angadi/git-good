@@ -2,7 +2,7 @@
 
 ## Basics of git
 
-### Create Repo
+### Create Repo1
 
 - `git init`
 
